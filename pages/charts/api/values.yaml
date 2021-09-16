@@ -20,7 +20,7 @@ image:
 
 
 config:
-  PAGE_CONTENT: Green-Pages coming from Yellow-World!
+  PAGE_CONTENT: Hi Gail!!!!!!
 
 env:
   SPRING_DATASOURCE_URL: jdbc:mysql://pages-mysql/pages?useSSL=false
